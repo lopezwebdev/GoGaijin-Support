@@ -119,8 +119,8 @@ The app may contain links to third-party websites or services (such as restauran
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** privacy@gogaijin.com
-**Developer:** Lopez Web Development
+**Email:**  [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)
+**Developer:** LopezLabs
 **Response Time:** We aim to respond to privacy inquiries within 48 hours
 
 ## Apple App Store Compliance
