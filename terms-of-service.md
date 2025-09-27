@@ -143,9 +143,9 @@ These Terms are governed by the laws of Japan. Any disputes will be resolved in 
 
 If you have questions about these Terms, please contact us at:
 
-**Email:**  [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)
-**Address:** 3-26-2 Hamadayama, Suginami-ku, Tokyo, Japan 168-0065
-**Website:** https://gogaijin-app-setup-1azn.bolt.host
+**Email:**  [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)** 
+**Address:** 3-26-2 Hamadayama, Suginami-ku, Tokyo, Japan 168-0065**
+**Website:** https://github.com/lopezwebdev/GoGaijin-Support**
 
 ## Severability
 
