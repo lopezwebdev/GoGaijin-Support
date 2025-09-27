@@ -14,8 +14,8 @@ If you need help using GoGaijin or have any questions:
 ---
 
 ## 📄 Documentation
-- [Privacy Policy](https://github.com/lopezwebdev/go_gaijin/blob/main/privacy-policy.md)  
-- [Terms of Service](https://github.com/lopezwebdev/go_gaijin/blob/main/terms-of-service.md)
+- [Privacy Policy](https://github.com/lopezwebdev/GoGaijin-Support/blob/main/privacy-policy.md)  
+- [Terms of Service](https://github.com/lopezwebdev/GoGaijin-Support/blob/main/terms-of-service.md)
 
 
 ---
