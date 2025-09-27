@@ -137,4 +137,4 @@ By downloading and using the GoGaijin app, you acknowledge that you have read an
 
 ---
 
-**For the most current version of this Privacy Policy, please check within the app or visit our website.**
+**For the most current version of this Privacy Policy, please check within the app.**
