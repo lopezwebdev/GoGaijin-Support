@@ -143,7 +143,7 @@ These Terms are governed by the laws of Japan. Any disputes will be resolved in 
 
 If you have questions about these Terms, please contact us at:
 
-**Email:** legal@gogaijin.com
+**Email:**  [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)
 **Address:** [Your Business Address]
 **Website:** https://gogaijin-app-setup-1azn.bolt.host
 
