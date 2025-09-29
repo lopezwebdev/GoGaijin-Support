@@ -19,7 +19,7 @@ GoGaijin ("we," "our," or "us") is committed to protecting your privacy. This Pr
 - **What We Collect:** Basic device information such as device type (iOS/Android), operating system version
 - **How We Use It:** To ensure proper app functionality and compatibility
 - **Storage:** This information is not stored or transmitted to our servers
-- 
+  
 ### Usage Information
 - **What We Collect:** Basic app usage patterns (which screens you visit)
 - **How We Use It:** To improve app performance and user experience
