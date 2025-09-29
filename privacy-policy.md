@@ -1,7 +1,7 @@
 # Privacy Policy for GoGaijin
 
-**Effective Date:** September 27, 2025
-**Last Updated:** September 27, 2025
+**Effective Date:** September 30, 2025
+**Last Updated:** September 30, 2025
 
 ## Introduction
 
@@ -19,11 +19,11 @@ GoGaijin ("we," "our," or "us") is committed to protecting your privacy. This Pr
 - **What We Collect:** Basic device information such as device type (iOS/Android), operating system version
 - **How We Use It:** To ensure proper app functionality and compatibility
 - **Storage:** This information is not stored or transmitted to our servers
-
+- 
 ### Usage Information
 - **What We Collect:** Basic app usage patterns (which screens you visit)
 - **How We Use It:** To improve app performance and user experience
-- **Storage:** This data is processed locally and not stored permanently
+- **Storage:** This data is processed locally on your device, is not transmitted to external servers, is not linked to your identity, and is not shared with any third parties
 
 ## Information We Do NOT Collect
 
@@ -49,7 +49,7 @@ We use the limited information we collect to:
 We do not sell, trade, or rent your personal information to third parties. Limited information may be shared only in these specific circumstances:
 
 ### Third-Party Services
-- **Apple Maps/Google Maps:** When you request directions, your location is shared with the mapping service
+- **Apple Maps/Google Maps:** When you request directions, your location is shared with the mapping service solely to dsiplay maps and provide navigation. We do not use Google Maps or Apple Maps for advertising, analytics, or tracking.
 - **Phone App:** When you make calls, the phone number is passed to your device's phone app
 - **No Other Sharing:** We do not share your information with any other third parties
 
@@ -112,7 +112,7 @@ The app may contain links to third-party websites or services (such as restauran
 ## Data Retention
 
 - **Location Data:** Processed in real-time, not stored permanently
-- **Usage Data:** Minimal usage patterns may be retained for up to 30 days for app improvement purposes
+- **Usage Data:** Minimal usage patterns are processed locally and may be retained on-device for up to 30 days for app improvement purposes. This data is not transmitted externally and not linked to your identity.
 - **No Personal Data:** Since we don't collect personal information, there's no personal data retention period
 
 ## Contact Information
