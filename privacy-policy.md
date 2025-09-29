@@ -128,6 +128,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 This app complies with Apple's App Store Review Guidelines regarding privacy:
 - We only request location permission when necessary for app functionality
 - Location data is used solely for showing nearby services
+- This app does not track users across apps or websites and does not use the AppTrackingTransparency framework, as no tracking is performed
 - No personal information is collected without explicit user consent
 - This privacy policy is easily accessible to users
 
