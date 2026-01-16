@@ -1,136 +1,40 @@
-# Privacy Policy for GoGaijin
+Privacy Policy
+Last updated: December 21, 2025
 
-**Effective Date:** September 30, 2025
-**Last Updated:** September 30, 2025
+LopezLabs (operated by Esteban Lopez) ("we," "our," or "us") operates the GoGaijin application and website (the "Service").
 
-## Introduction
+We respect your privacy and are committed to protecting your personal information.
 
-GoGaijin ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application GoGaijin - Tokyo Services for Foreigners (the "App").
+1. Information We Collect
+We may collect the following types of information:
 
-## Information We Collect
+Contact information (such as email address)
+Basic usage data related to how you use the app
+Location-related data necessary to provide local service listings
+We do not knowingly collect personal data from children under 13.
 
-### Location Information
-- **What We Collect:** Your device's GPS coordinates when you grant location permission
-- **How We Use It:** To show you nearby healthcare, dining, housing, and essential services
-- **Storage:** Location data is processed in real-time and not stored permanently on our servers
-- **Your Control:** You can disable location services in your device settings at any time
+2. How We Use Information
+We use your information to:
 
-### Device Information
-- **What We Collect:** Basic device information such as device type (iOS/Android), operating system version
-- **How We Use It:** To ensure proper app functionality and compatibility
-- **Storage:** This information is not stored or transmitted to our servers
-  
-### Usage Information
-- **What We Collect:** Basic app usage patterns (which screens you visit)
-- **How We Use It:** To improve app performance and user experience
-- **Storage:** This data is processed locally on your device, is not transmitted to external servers, is not linked to your identity, and is not shared with any third parties
+Provide and improve the GoGaijin service
+Communicate with users about updates or support requests
+Ensure the safety and functionality of the platform
+3. Sharing of Information
+We do not sell your personal information.
 
-## Information We Do NOT Collect
+We may share limited data with trusted third-party services (such as analytics or infrastructure providers) solely to operate and improve the Service.
 
-We want to be clear about what we don't collect:
-- ❌ Personal identification information (name, email, phone number)
-- ❌ Account information (no user accounts required)
-- ❌ Payment information (app is free with no in-app purchases)
-- ❌ Photos, contacts, or other personal data from your device
-- ❌ Call logs or communication history
-- ❌ Browsing history or search queries
+4. Data Security
+We take reasonable steps to protect your information, but no method of transmission or storage is 100% secure.
 
-## How We Use Your Information
+5. Your Rights
+You may request access to, correction of, or deletion of your personal information by contacting us.
 
-We use the limited information we collect to:
-- Show you relevant services based on your location
-- Provide directions to selected services via Apple Maps or Google Maps
-- Enable phone calls to service providers through your device's phone app
-- Improve app performance and user experience
-- Ensure app compatibility with your device
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page.
 
-## Information Sharing and Disclosure
-
-We do not sell, trade, or rent your personal information to third parties. Limited information may be shared only in these specific circumstances:
-
-### Third-Party Services
-- **Apple Maps/Google Maps:** When you request directions, your location is shared with the mapping service solely to dsiplay maps and provide navigation. We do not use Google Maps or Apple Maps for advertising, analytics, or tracking.
-- **Phone App:** When you make calls, the phone number is passed to your device's phone app
-- **No Other Sharing:** We do not share your information with any other third parties
-
-### Legal Requirements
-We may disclose information if required by law or to:
-- Comply with legal processes
-- Protect our rights and safety
-- Prevent fraud or illegal activities
-
-## Data Security
-
-We implement appropriate security measures to protect your information:
-- Location data is processed locally on your device when possible
-- No permanent storage of personal information on our servers
-- Industry-standard security practices for any data transmission
-- Regular security reviews and updates
-
-However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
-
-## Your Privacy Rights
-
-You have the following rights regarding your information:
-
-### Location Services
-- **Disable Location:** Turn off location services in your device settings
-- **App-Specific Control:** Disable location for GoGaijin specifically in iOS Settings > Privacy & Security > Location Services
-- **Impact:** Disabling location will limit the app's ability to show nearby services
-
-### Data Deletion
-- **No Account Data:** Since we don't store personal information, there's no account data to delete
-- **App Removal:** Uninstalling the app removes all local data
-
-### Contact Us
-- Request information about data practices
-- Report privacy concerns
-- Ask questions about this policy
-
-## Children's Privacy
-
-GoGaijin is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
-
-## International Users
-
-GoGaijin is designed for use in Tokyo, Japan. If you use the app from outside Japan:
-- Your location data may be processed in Japan where our services are located
-- The same privacy protections apply regardless of your location
-- Local privacy laws in your jurisdiction may provide additional rights
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. When we make changes:
-- We will update the "Last Updated" date at the top of this policy
-- For material changes, we will provide notice through the app
-- Continued use of the app after changes constitutes acceptance of the updated policy
-
-## Third-Party Links and Services
-
-The app may contain links to third-party websites or services (such as restaurant websites or clinic pages). This Privacy Policy does not apply to these third-party services. We encourage you to review the privacy policies of any third-party services you visit.
-
-## Data Retention
-
-- **Location Data:** Processed in real-time, not stored permanently
-- **Usage Data:** Minimal usage patterns are processed locally and may be retained on-device for up to 30 days for app improvement purposes. This data is not transmitted externally and not linked to your identity.
-- **No Personal Data:** Since we don't collect personal information, there's no personal data retention period
-
-## Contact Information
-
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
-
-**Email:**  [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)
-**Developer:** LopezLabs
-**Response Time:** We aim to respond to privacy inquiries within 48 hours
-
-## Apple App Store Compliance
-
-This app complies with Apple's App Store Review Guidelines regarding privacy:
-- We only request location permission when necessary for app functionality
-- Location data is used solely for showing nearby services
-- This app does not track users across apps or websites and does not use the AppTrackingTransparency framework, as no tracking is performed
-- No personal information is collected without explicit user consent
-- This privacy policy is easily accessible to users
+7. Contact
+If you have questions about this Privacy Policy, please contact us at: info@gogaijin.me
 
 ## Consent
 
@@ -138,4 +42,3 @@ By downloading and using the GoGaijin app, you acknowledge that you have read an
 
 ---
 
-**For the most current version of this Privacy Policy, please check within the app.**
