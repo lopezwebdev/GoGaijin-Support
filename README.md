@@ -9,7 +9,7 @@
 If you need help using GoGaijin or have any questions:
 
 * Open a [support issue on GitHub](https://github.com/lopezwebdev/GoGaijin-Support/issues)
-* Or contact us by email: [esteban.steam21@gmail.com](mailto:esteban.steam21@gmail.com)
+* Or contact us by email: [info@gogaijin.me](mailto:info@gogaijin.me)
 
 ---
 
